@@ -1,77 +1,27 @@
-# 👋 Hi, I'm Om Prakash Peddamadthala
+<h1 align="center">Hi 👋, I'm Om Prakash Peddamadthala</h1>
+<h3 align="center">A passionate backend developer from India</h3>
 
-<div align="center">
-  
-### 🎯 Java Backend Developer | Spring Boot Expert | Microservices Architect
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omprakashpeddamadthala&label=Profile%20views&color=0e75b6&style=flat" alt="omprakashpeddamadthala" /> </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](your-portfolio-url)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+- 🔭 I’m currently working on [NextNotePad.com](https://nextnotepad.com/)
 
-</div>
+- 🌱 I’m currently learning **Agentic AI**
 
----
+- 💬 Ask me about **Java, Spring Boot and Microservices**
 
-## 🚀 About Me
+- 📫 How to reach me **omprakashornold@gmail.com**
 
-🔥 **Java Backend Developer** with **6 years** of experience in building scalable microservices  
-☁️ Expertise in **Spring Boot**, **Spring Cloud**, and **Distributed Systems Architecture**  
-🏗️ Passionate about **Domain-Driven Design**, **Event-Driven Architecture**, and **Cloud-Native Applications**  
-💼 Seeking opportunities in **Senior Backend/Microservices Developer** roles
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/omprakash-peddamadthala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omprakash-peddamadthala" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-## 🛠️ Technical Expertise
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/omprakashpeddamadthala"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="omprakashpeddamadthala" /></a><a href="https://ko-fi.com/omprakashpeddamadthala"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="omprakashpeddamadthala" /></a></p><br><br>
 
-### **Core Technologies**
-![Java](https://img.shields.io/badge/Java_8/11/17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_2.7/3.x-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=kubernetes&logoColor=white)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omprakashpeddamadthala&show_icons=true&locale=en&layout=compact" alt="omprakashpeddamadthala" /></p>
 
-### **Spring Ecosystem**
-```
-✅ Spring Boot     ✅ Spring Security    ✅ Spring Data JPA    ✅ Spring Batch
-✅ Spring Cloud     ✅ Spring WebFlux     ✅ Spring REST        ✅ Spring AOP
-✅ Config Server    ✅ Eureka/Consul      ✅ Gateway/Zuul       ✅ Ribbon/Feign
-```
-
-### **Microservices & Cloud**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-### **Databases & ORMs**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
-
-### **DevOps & Tools**
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=flat&logo=gitlab&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat&logo=elastic&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-
----
-
-## 🏗️ Microservices Architecture Experience
-
-### **Design Patterns & Best Practices**
-- ✅ **API Gateway Pattern** - Implemented using Spring Cloud Gateway
-- ✅ **Service Discovery** - Netflix Eureka / Consul integration
-- ✅ **Circuit Breaker** - Hystrix / Resilience4j implementation
-- ✅ **SAGA Pattern** - Distributed transaction management
-- ✅ **Event Sourcing & CQRS** - Event-driven architecture
-- ✅ **Database per Service** - Polyglot persistence
-- ✅ **Distributed Tracing** - Sleuth + Zipkin implementation
-
----
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omprakashpeddamadthala&show_icons=true&locale=en" alt="omprakashpeddamadthala" /></p>
